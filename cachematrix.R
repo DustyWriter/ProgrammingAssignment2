@@ -33,4 +33,4 @@ cacheSolve <- function(x, ...) {
     inv #return the inverse
 }
 
-## THE END
+## END OF CODE
